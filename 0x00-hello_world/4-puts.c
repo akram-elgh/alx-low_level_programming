@@ -1,9 +1,8 @@
 #include <stdio.h>
-
 /**
- * @brief Simpl programm to use puts
+ * main - entry point 
  * 
- * @return int 0
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
