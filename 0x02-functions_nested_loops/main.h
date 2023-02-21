@@ -1,4 +1,1 @@
-#ifndef header
-#define header
-
-#endif
+int _putchar(char c);
