@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "main.h"
 
 /* betty style doc for function main goes there */
 /**
@@ -8,6 +9,6 @@
  */
 int main()
 {
-printf("_putchar");
+_putchar("_putchar");
 return (0);
 }
