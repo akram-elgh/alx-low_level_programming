@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main - Entry point
+ * print_alphabet - printing alphabet from a to z
  *
- * Return: Always 0 (Success)
+ * Return: Void
  */
 void print_alphabet(void)
 {
