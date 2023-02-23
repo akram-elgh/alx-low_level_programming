@@ -6,7 +6,7 @@
 * 
 * Return: 1 if c is upper, 0 otherwise
 */
-int isupper(char c)
+int isupper(int c)
 {
-return (c >= 'a' && c <= 'z');
+return (c >= 65 && c <= 90);
 }
